@@ -1,7 +1,7 @@
 # util
 
 ## Resize
-https://cdn.jsdelivr.net/gh/jackhp95/util/resize.min.js
+https://cdn.jsdelivr.net/gh/jackhp95/util/resize.min.css
 
 ## Util
-https://cdn.jsdelivr.net/gh/jackhp95/util/util.min.js
+https://cdn.jsdelivr.net/gh/jackhp95/util/util.min.css

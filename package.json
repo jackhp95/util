@@ -1,0 +1,28 @@
+{
+  "name": "@jackhp95/util",
+  "version": "1.0.0",
+  "description": "A collection of utility functions to make working with JavaScript easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackhp95/util.git"
+  },
+  "keywords": [
+    "utils",
+    "util",
+    "js",
+    "dom",
+    "data",
+    "error",
+    "utility"
+  ],
+  "author": "Jack H Peterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackhp95/util/issues"
+  },
+  "homepage": "https://github.com/jackhp95/util#readme"
+}
